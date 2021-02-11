@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UTU", "UTU\UTU.vbproj", "{C1764F7B-DE32-4CDB-A9B3-C914F1820475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1764F7B-DE32-4CDB-A9B3-C914F1820475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1764F7B-DE32-4CDB-A9B3-C914F1820475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1764F7B-DE32-4CDB-A9B3-C914F1820475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1764F7B-DE32-4CDB-A9B3-C914F1820475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C565ECE-9C31-4EC8-85F1-91C55F804C05}
+	EndGlobalSection
+EndGlobal
